@@ -10,7 +10,7 @@ Bleep bloop, please help Issue Bot 9000 solve all HTML validation errors using t
 
 1. Fork this repository.
 2. Clone your fork locally.
-3. `cd` into the local repo you just cloned.
+.
 
 ## Steps
 
